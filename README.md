@@ -8,7 +8,7 @@
 
 <h3 align="center">If you want to contact me, you can write to me by email or telegram:</h3>
 
-<ul>email: kelass2003@gmail.com</ul>
+<ol><h3 align="center">email: kelass2003@gmail.com</h3></ol>
 
-telegram: @kelas_kroos
+<h3 align="center">telegram: @kelas_kroos</h3>
 
