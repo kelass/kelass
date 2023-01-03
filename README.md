@@ -6,4 +6,4 @@
 
 <h3 align="center">📦 Tech stack: C#,.NET, ASP.NET Core, SQL, Nuget, Identity, EntityFramework Core, HTML, CSS</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelass&show_icons=true&theme=transparent align="center")
+![Anurag's GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=kelass&show_icons=true&theme=transparent)
