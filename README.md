@@ -6,10 +6,9 @@
 
 <h3 align="center">📦 Tech stack: C#,.NET, ASP.NET Core, SQL, Nuget, Identity, EntityFramework Core, HTML, CSS</h3>
 
-If you want to contact me, you can write to me by email or telegram:
+<h3 align="center">If you want to contact me, you can write to me by email or telegram:</h3>
 
-email: kelass2003@gmail.com
+<ul>email: kelass2003@gmail.com</ul>
 
 telegram: @kelas_kroos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelass)](https://github.com/anuraghazra/github-readme-stats)
