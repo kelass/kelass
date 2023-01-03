@@ -1,6 +1,6 @@
 <h1 align="center">Prysukha Mykola</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<h3 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelass&show_icons=true&theme=transparent)</h3>
 
 <h3 align="center">🖥️ Speciality: .NET developer</h3>
 
